@@ -1,0 +1,215 @@
+Airport Sub,1415
+Arden Park,41
+Aviation Sub,386
+Bagley,1702
+Barton-McFarland,2084
+Belle Isle,10
+Belmont,558
+Berg-Lahser,503
+Bethune Community,1891
+Blackstone Park,319
+Boston Edison,301
+Boynton,851
+Brewster Homes,159
+Brightmoor,1905
+Brush Park,366
+Buffalo Charles,543
+Butler,430
+Cadillac Community,217
+Cadillac Heights,434
+Campau/Banglatown,372
+Carbon Works,66
+Castle Rouge,298
+Central Southwest,1768
+Chadsey Condon,787
+Chalfonte,429
+Chandler Park,597
+Chandler Park-Chalmers,257
+Claytown,1940
+College Park,1494
+Conant Gardens,199
+Conner Creek,1024
+Conner Creek Industrial,350
+Core City,295
+Corktown,706
+Cornerstone Village,1944
+Crary/St Marys,1522
+Cultural Center,393
+Davison,496
+Davison-Schoolcraft,331
+Delray,437
+Denby,633
+Detroit Golf,90
+Dexter-Fenkell,215
+Dexter-Linwood,1906
+Douglass,22
+Downtown,3031
+East Canfield,100
+East English Village,807
+East Village,943
+Eastern Market,557
+Eden Gardens,602
+Elijah McCoy,252
+Eliza Howell,297
+Elmwood Park,1098
+Evergreen Lahser 7/8,1270
+Evergreen-Outer Drive,1172
+Far West Detroit,392
+Farwell,1166
+Fiskhorn,418
+Fitzgerald/Marygrove,1486
+Five Points,592
+Forest Park,332
+Fox Creek,613
+Franklin,767
+Franklin Park,2444
+Garden Homes,460
+Garden View,176
+Gateway Community,384
+Gold Coast,269
+Grand River-I96,913
+Grand River-St Marys,540
+Grandmont,392
+Grandmont #1,249
+Grant,507
+Gratiot Town/Ketterring,478
+Gratiot Woods,351
+Gratiot-Findlay,584
+Gratiot-Grand,545
+Greektown,671
+Green Acres,241
+Greenfield,1394
+Greenfield Park,521
+Greenfield-Grand River,579
+Greenwich,292
+Grixdale Farms,530
+Happy Homes,92
+Harmony Village,840
+Hawthorne Park,235
+Henry Ford,536
+Herman Kiefer,142
+Historic Atkinson,56
+Holcomb Community,1343
+Hubbard Farms,254
+Hubbard Richard,158
+Hubbell-Lyndon,794
+Hubbell-Puritan,552
+Indian Village,128
+Islandview,1029
+Jamison,220
+Jefferson Chalmers,784
+Jeffries,205
+Joseph Berry Sub,67
+Joy Community,1162
+Joy-Schaefer,263
+Krainz Woods,600
+LaSalle College Park,500
+LaSalle Gardens,245
+Lafayette Park,608
+Littlefield Community,324
+Mapleridge,1386
+Marina District,124
+Martin Park,477
+McDougall-Hunt,597
+McDowell,366
+McNichols Evergreen,229
+Medbury Park,72
+Medical Center,630
+Melvern Hill,51
+Mexicantown,117
+Michigan-Martin,196
+Midtown,2314
+Midwest,1831
+Miller Grove,342
+Milwaukee Junction,289
+Minock Park,145
+Mohican Regent,665
+Morningside,1815
+Moross-Morang,1421
+Mount Olivet,477
+NW Goldberg,390
+Nardin Park,758
+New Center,272
+New Center Commons,354
+Nolan,1656
+North Campau,203
+North Corktown,358
+North End,764
+North LaSalle,325
+North Rosedale Park,670
+Northeast Central District,384
+Northwest Community,210
+Nortown,936
+O'Hair Park,1045
+Oak Grove,609
+Oakman Blvd Community,1788
+Oakwood Heights,51
+Old Redford,123
+Outer Drive-Hayes,1863
+Palmer Park,462
+Palmer Woods,89
+Paveway,166
+Pembroke,211
+Penrose,226
+Pershing,415
+Petoskey-Otsego,569
+Piety Hill,353
+Pilgrim Village,583
+Pingree Park,205
+Plymouth-Hubbell,1041
+Plymouth-I96,339
+Poletown East,310
+Pride Area Community,410
+Pulaski,1089
+Ravendale,384
+Regent Park,2105
+Riverbend,803
+Riverdale,304
+Rivertown,714
+Rosedale Park,531
+Rouge Park,129
+Russell Industrial,64
+Russell Woods,545
+San Bernardo,224
+Schaefer 7/8 Lodge,775
+Schoolcraft Southfield,1102
+Schulze,1561
+Seven Mile Lodge,110
+Seven Mile-Rouge,583
+Sherwood,339
+Sherwood Forest,184
+South of Six,243
+Southfield Plymouth,140
+Springwells,1637
+State Fair,188
+Tech Town,104
+The Eye,389
+Tri-Point,92
+University District,481
+Virginia Park,37
+Von Steuben,1107
+Wade,579
+Warren Ave Community,1648
+Warrendale,3822
+Waterworks Park,24
+Wayne State,566
+We Care Community,542
+Weatherby,359
+West End,628
+West Outer Drive,182
+West Side Industrial,201
+West Village,255
+West Virginia Park,43
+Westwood Park,225
+Wildemere Park,209
+Winship,1331
+Woodbridge,338
+Yorkshire Woods,839
+Neighborhood,"Index([u'Airport Sub', u'Arden Park', u'Aviation Sub', u'Bagley',
+       u'Barton-McFarland', u'Belle Isle', u'Belmont', u'Berg-Lahser',
+       u'Bethune Community', u'Blackstone Park',
+       ...
+       u'West End', u'West Outer Drive', u'West Side Industrial',
+       u'West Village', u'West Virginia Park', u'Westwood Park',
+       u'Wildemere Park', u'Winship', u'Woodbridge', u'Yorkshire Woods'],
+      dtype='object', name=u'Neighborhood', length=207)"
