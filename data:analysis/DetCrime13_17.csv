@@ -1,0 +1,209 @@
+,Neighborhood,Incidents17,Incidents13
+0,West End,352,693
+1,Chandler Park,346,405
+2,Riverbend,487,675
+3,Jefferson Chalmers,468,654
+4,Morningside,1102,1514
+5,Cornerstone Village,1201,1516
+6,Regent Park,1355,1820
+7,North Rosedale Park,426,543
+8,Riverdale,178,350
+9,Berg-Lahser,305,425
+10,Five Points,327,391
+11,The Eye,241,362
+12,Old Redford,76,130
+13,Grandmont,248,291
+14,Grandmont #1,160,245
+15,Rosedale Park,350,579
+16,Minock Park,87,113
+17,Westwood Park,134,178
+18,Warrendale,2407,3337
+19,Garden View,99,155
+20,Warren Ave Community,1045,1408
+21,Far West Detroit,260,366
+22,Marina District,87,80
+23,Joseph Berry Sub,43,46
+24,Indian Village,83,139
+25,Rivertown,432,671
+26,West Village,146,217
+27,Conner Creek Industrial,211,306
+28,Corktown,433,710
+29,Boynton,542,784
+30,Oakwood Heights,33,89
+31,Delray,284,474
+32,Claytown,1188,2120
+33,Aviation Sub,254,348
+34,Barton-McFarland,1194,1775
+35,Bagley,1030,1669
+36,Green Acres,128,193
+37,State Fair,101,60
+38,Palmer Woods,56,63
+39,Sherwood Forest,109,126
+40,University District,291,465
+41,Springwells,1027,1621
+42,Franklin Park,1513,2111
+43,Weatherby,196,299
+44,Castle Rouge,196,237
+45,Eliza Howell,183,158
+46,Brightmoor,1182,1747
+47,Chadsey Condon,483,843
+48,Woodbridge,209,409
+49,Greenfield,857,1075
+50,Oakman Blvd Community,1120,1546
+51,Nardin Park,458,770
+52,Petoskey-Otsego,366,534
+53,Islandview,623,824
+54,Detroit Golf,63,41
+55,Boston Edison,209,296
+56,Arden Park,27,37
+57,Campau/Banglatown,230,334
+58,Conant Gardens,122,170
+59,Krainz Woods,362,520
+60,LaSalle College Park,322,429
+61,Elmwood Park,682,936
+62,McDougall-Hunt,381,575
+63,North Corktown,231,455
+64,Cultural Center,252,469
+65,Carbon Works,41,63
+66,Michigan-Martin,123,198
+67,Pingree Park,125,238
+68,Martin Park,293,455
+69,Belmont,372,348
+70,Blackstone Park,195,271
+71,East Village,597,855
+72,Hubbard Farms,172,185
+73,Russell Woods,324,426
+74,Gold Coast,164,275
+75,Mohican Regent,401,454
+76,Jeffries,123,265
+77,Medical Center,374,621
+78,Pulaski,726,927
+79,Central Southwest,1119,1829
+80,Hubbard Richard,109,125
+81,NW Goldberg,281,352
+82,Henry Ford,352,501
+83,West Virginia Park,28,28
+84,North LaSalle,204,284
+85,Forest Park,193,249
+86,Lafayette Park,365,451
+87,Eastern Market,269,370
+88,Brewster Homes,87,111
+89,Douglass,18,10
+90,Brush Park,207,311
+91,Gratiot Town/Ketterring,306,435
+92,Airport Sub,903,1351
+93,Poletown East,201,307
+94,Grixdale Farms,320,341
+95,Palmer Park,274,389
+96,New Center Commons,241,304
+97,Piety Hill,221,275
+98,East English Village,494,724
+99,Core City,180,362
+100,Virginia Park,25,41
+101,Plymouth-Hubbell,625,769
+102,Joy-Schaefer,173,200
+103,North Campau,116,175
+104,Hawthorne Park,145,217
+105,Northeast Central District,239,360
+106,Pilgrim Village,356,590
+107,Fitzgerald/Marygrove,894,1523
+108,Penrose,135,254
+109,Schulze,992,1337
+110,Greenwich,165,245
+111,Schaefer 7/8 Lodge,469,672
+112,Tri-Point,71,78
+113,College Park,934,1029
+114,Winship,807,940
+115,Nortown,574,647
+116,Von Steuben,743,853
+117,Buffalo Charles,331,437
+118,West Outer Drive,118,200
+119,Joy Community,687,975
+120,Southfield Plymouth,90,175
+121,Paveway,83,94
+122,Pride Area Community,252,274
+123,Happy Homes,52,88
+124,Northwest Community,130,184
+125,Littlefield Community,194,278
+126,We Care Community,320,460
+127,Fiskhorn,257,339
+128,Midwest,1130,1899
+129,LaSalle Gardens,145,254
+130,Wildemere Park,132,205
+131,Jamison,138,281
+132,Tech Town,68,156
+133,Medbury Park,41,111
+134,Russell Industrial,29,41
+135,Milwaukee Junction,198,132
+136,Downtown,1935,3129
+137,Denby,398,572
+138,Midtown,1383,2358
+139,Wayne State,377,965
+140,Historic Atkinson,41,41
+141,Yorkshire Woods,511,745
+142,New Center,179,269
+143,North End,494,838
+144,Elijah McCoy,156,286
+145,Dexter-Linwood,1187,1737
+146,Davison,324,756
+147,Farwell,699,1172
+148,West Side Industrial,127,209
+149,Belle Isle,6,132
+150,Grand River-I96,570,895
+151,Davison-Schoolcraft,213,308
+152,Dexter-Fenkell,137,205
+153,Rouge Park,81,92
+154,Plymouth-I96,221,301
+155,Gateway Community,253,414
+156,Waterworks Park,14,18
+157,Grant,329,479
+158,Greenfield Park,415,246
+159,Garden Homes,266,358
+160,Mapleridge,862,1257
+161,Eden Gardens,392,681
+162,Wade,360,549
+163,Ravendale,171,175
+164,Gratiot-Findlay,358,690
+165,Outer Drive-Hayes,1147,1700
+166,Moross-Morang,860,1181
+167,Gratiot-Grand,349,533
+168,Chandler Park-Chalmers,169,160
+169,Mexicantown,77,113
+170,South of Six,140,195
+171,Oak Grove,364,234
+172,Oak Grove,364,183
+173,McNichols Evergreen,143,162
+174,Melvern Hill,29,42
+175,Evergreen Lahser 7/8,765,978
+176,O'Hair Park,645,807
+177,Crary/St Marys,923,1144
+178,Greenfield-Grand River,356,432
+179,Cadillac Community,131,202
+180,Seven Mile-Rouge,335,500
+181,Evergreen-Outer Drive,709,1102
+182,Holcomb Community,789,935
+183,Hubbell-Puritan,324,485
+184,Hubbell-Lyndon,484,751
+185,Grand River-St Marys,328,414
+186,Schoolcraft Southfield,686,1026
+187,Greektown,418,400
+188,Cadillac Heights,274,435
+189,Butler,278,420
+190,Pershing,263,389
+191,Mount Olivet,297,432
+192,Franklin,455,690
+193,Conner Creek,662,831
+194,Nolan,1040,1473
+195,Sherwood,230,297
+196,Herman Kiefer,83,173
+197,San Bernardo,150,214
+198,Seven Mile Lodge,66,106
+199,McDowell,222,361
+200,Pembroke,140,248
+201,Harmony Village,486,608
+202,Bethune Community,1166,1731
+203,Chalfonte,282,509
+204,Miller Grove,224,258
+205,Gratiot Woods,229,308
+206,East Canfield,59,77
+207,Fox Creek,409,530
